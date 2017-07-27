@@ -1,4 +1,4 @@
-# quickstart
+# Quickstarts for Friends
 Quick start guides for my friends.
 
 ## Mobile
@@ -17,5 +17,5 @@ You can find my **quickstart** guide at [./nativescript](https://github.com/G3N7
 ## Web
 **todo**
 
-### Angular2, TypeScript, NodeJs
+### Angular2, TypeScript, Node.js
 **todo**
