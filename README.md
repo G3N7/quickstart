@@ -12,7 +12,7 @@ For doing mobile you want to consider a few things:
 ### NativeScript
 _NativeScript_ is a _Telerik_ product that allows you to develop mobile apps for _iOS_ and _Android_ using angular 2 semantics that translate to native controls and performance across the platforms.
 
-You can find my **quickstart** guide at [/nativescript/](https://github.com/G3N7/quickstart/nativescript/)
+You can find my **quickstart** guide at [./nativescript](https://github.com/G3N7/quickstart/tree/master/nativescript)
 
 ## Web
 **todo**
