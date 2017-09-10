@@ -1,6 +1,6 @@
 # _NativeScript_ Quickstart
 
-## Install (_Windows_)
+## Installation (_Windows_)
 
 * Install _Node.js_
 * Install _Android Studio_
