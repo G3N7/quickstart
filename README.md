@@ -17,5 +17,7 @@ You can find my **quickstart** guide at [./nativescript](https://github.com/G3N7
 ## Web
 **todo**
 
-### Angular2, TypeScript, Node.js
-**todo**
+### MEAN
+Modern _MEAN_ stack: _MongoDB_, _express_, _Angular2+_, _Node.js_
+
+You can find my **quickstart** guide at [./mean2](https://github.com/G3N7/quickstart/tree/master/nativescript)
